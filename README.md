@@ -18,7 +18,7 @@ class DigitalEntity:
             "languages": ["Python", "PHP", "JavaScript", "Vue.js"],
             "frameworks": ["Django", "Laravel", "FastAPI"],
             "specializations": ["OSINT", "Security", "API Integration"],
-            "reality_level": "∞"
+            "reality_level": "none"
         }
     
     def connect(self):
