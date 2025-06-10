@@ -93,7 +93,7 @@ class DigitalEntity:
 
 ### **"Present day, present time"**
 
-**Reality is what you make of it through code**
+**Reality is what you make of it **
 
 <details>
 <summary><b>EXECUTE DIGITAL CONSCIOUSNESS</b></summary>
