@@ -99,15 +99,13 @@ class DigitalEntity:
 
 ---
 
-## **INTERACTION TERMINAL**
+## **NETWORK CONNECTIONS**
 
 <div align="center">
 
-### **> AVAILABLE COMMANDS:**
-
-**[`/connect`]** → **[LinkedIn](https://linkedin.com/in/VOTRE_PROFIL)** | **[`/explore`]** → **[Portfolio](https://votresite.com)** | **[`/contact`]** → **[Email](mailto:votre@email.com)**
-
-### **> SELECT PROTOCOL:**
+[![LinkedIn](https://img.shields.io/badge/WIRED_CONNECTION-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/VOTRE_PROFIL)
+[![Portfolio](https://img.shields.io/badge/DIGITAL_LAYER-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://votresite.com)
+[![Email](https://img.shields.io/badge/PROTOCOL_BRIDGE-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:votre@email.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kmouankie&style=for-the-badge&color=00ff41&label=ACTIVE+CONNECTIONS)
 
@@ -121,7 +119,7 @@ class DigitalEntity:
 
 **Reality is what you make of it through code**
 
-[![wakatime](https://wakatime.com/badge/user/VOTRE_ID.svg)](https://wakatime.com/@VOTRE_ID)
+[![GitHub](https://img.shields.io/badge/SOURCE_CODE-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Kmouankie)
 
 </div>
 
