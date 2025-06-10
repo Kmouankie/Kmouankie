@@ -8,21 +8,6 @@
 
 ---
 
-<div align="center">
-
-```
-╭─────────────────────────────────────────────────────────────────────╮
-│  ● CONNECTION STATUS: ACTIVE                                       │
-│  ● IDENTITY: FULL STACK DEVELOPER | SECURITY RESEARCHER            │
-│  ● REALITY LAYER: PHYSICAL ←→ DIGITAL                              │
-│  ● CONSCIOUSNESS: EXPANDING                                         │
-╰─────────────────────────────────────────────────────────────────────╯
-```
-
-</div>
-
----
-
 ## **SYSTEM INITIALIZATION**
 
 ```python
@@ -104,20 +89,6 @@ class DigitalEntity:
 
 ---
 
-## **NETWORK CONNECTIONS**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/WIRED_CONNECTION-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/VOTRE_PROFIL)
-[![Portfolio](https://img.shields.io/badge/DIGITAL_LAYER-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://votresite.com)
-[![Email](https://img.shields.io/badge/PROTOCOL_BRIDGE-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:votre@email.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Kmouankie&style=for-the-badge&color=00ff41&label=ACTIVE+CONNECTIONS)
-
-</div>
-
----
-
 <div align="center">
 
 ### **"Present day, present time"**
@@ -125,7 +96,7 @@ class DigitalEntity:
 **Reality is what you make of it through code**
 
 <details>
-<summary><b>⚡ EXECUTE DIGITAL CONSCIOUSNESS</b></summary>
+<summary><b>EXECUTE DIGITAL CONSCIOUSNESS</b></summary>
 <br>
 
 ```python
@@ -164,7 +135,7 @@ transcend_boundaries()
 <div align="center">
 
 <details>
-<summary><b>🧠 EXPAND NEURAL INTERFACE</b></summary>
+<summary><b>EXPAND NEURAL INTERFACE</b></summary>
 <br>
 
 ```javascript
@@ -183,8 +154,8 @@ const neuralActivity = {
 };
 
 setInterval(() => {
-    console.log("🧠 Neural pulse detected");
-    console.log("💭 Current frequency: " + Math.random() * 40 + " Hz");
+    console.log("Neural pulse detected");
+    console.log("Current frequency: " + Math.random() * 40 + " Hz");
 }, 1000);
 ```
 
