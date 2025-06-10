@@ -118,7 +118,7 @@ def transcend_boundaries():
         if current_state == "enlightened":
             return "Reality.exe has been successfully hacked"
         
-        time.sleep(∞)
+        time.sleep()
 
 # Initialize consciousness
 transcend_boundaries()
