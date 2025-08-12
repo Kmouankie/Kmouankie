@@ -45,6 +45,8 @@ class DigitalEntity:
 
 ### **[CLICK TO EXPLORE]**
 
+[![Lain Chat](https://github-readme-stats.vercel.app/api/pin/?username=Kmouankie&repo=lain-chat&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=ff0000)](https://github.com/Kmouankie/lain-chat)
+
 [![SpaceX Data Interface](https://github-readme-stats.vercel.app/api/pin/?username=Kmouankie&repo=SpaceX-lancement&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=ff0000)](https://github.com/Kmouankie/SpaceX-lancement)
 
 [![OSINT Security Tool](https://github-readme-stats.vercel.app/api/pin/?username=Kmouankie&repo=Osint-Dos&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=ff0000)](https://github.com/Kmouankie/Osint-Dos)
